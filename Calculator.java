@@ -5,6 +5,10 @@ public class Calculator {
         return a + b;
     }
 
+    public int extraction(int a, int b) {
+        return a - b;
+    }
+    //SJKQJNWJKLFBAWELHKGEBABWHEK
     public double addition(double a, double b) {
         return b + a;
     }
